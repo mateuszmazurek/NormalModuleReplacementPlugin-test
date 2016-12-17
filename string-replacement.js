@@ -1,0 +1,1 @@
+module.exports = 'replacement string';
